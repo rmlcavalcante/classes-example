@@ -1,0 +1,22 @@
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.verdana {
+    font-family: verdana;
+    font-size: 22px;
+}
+
+.monospace {
+    font-family: monospace;
+    font-size: 22px;
+}
+.image {
+    border: 22px red dotted;
+    padding: 10px;
+}
